@@ -2,6 +2,7 @@
 
 
 **Una aplicación de lanzamiento de moneda virtual.**
+
 ¡Desarrollando soluciones interactivas con Python y herramientas modernas! 🚀
 
 🔗 URL https://lanzar-moneda-app-f011.onrender.com/
